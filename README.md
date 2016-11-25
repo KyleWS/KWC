@@ -1,2 +1,0 @@
-# KWC
-Kyle Williams-Smith
