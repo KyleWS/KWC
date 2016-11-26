@@ -1,7 +1,7 @@
 {
-  "name": "kyleiws",
+  "name": "kwc",
   "version": "1.0.0",
-  "description": "Package json for personal website",
+  "description": "Personal Website for KWS",
   "main": "src/default.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/KyleWS/KWC.git"
   },
-  "author": "",
+  "author": "kyle ws",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KyleWS/KWC/issues"
