@@ -1,0 +1,40 @@
+.bar {
+   width: 100%;
+   background-color: #eee;
+}
+
+#Navbar {
+   display: flex;
+}
+
+#Navbar Button {
+   border: none;
+   font-size: 1.2em;
+   background-color: #eee;
+   margin: auto;
+   width: 100%;
+}
+
+#Navbar Button a{
+   text-decoration: none;
+   display: block;
+}
+
+#Navbar Button a:visited{
+   color: black;
+}
+
+#Navbar Button .active {
+   background-color: #aaa;
+   border-bottom: 2px solid lightsalmon;
+}
+
+#Footer {
+   display: flex;
+   position: relative;
+}
+
+.fa-sign-in {
+   position: fixed;
+   right: 15px;
+}

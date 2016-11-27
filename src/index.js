@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Router, Route, IndexRoute, hashHistory } from 'react-router';
 import App from './components/App';
-import {Navbar, Footer} from "./components/bars.js";
 import HomePage from "./components/HomePage.js";
 import ResumePage from "./components/ResumePage.js";
 import ProjectPage from "./components/ProjectPage.js";
